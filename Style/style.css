@@ -47,6 +47,12 @@ a[href^="https://"] {
     color: grey;
 }
 
+a[href$="-3"] {
+    color: maroon;
+}
+
+
+
 
 
 
