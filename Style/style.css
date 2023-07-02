@@ -2,3 +2,51 @@ h3 {
     color: blue;
     font-size: large;
 }
+
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.block {
+    color: goldenrod;
+}
+
+.block.blueviolet {
+    color: blueviolet;
+}
+
+#identifier {
+    color: darkgreen;
+}
+
+h3~p1 {
+    color: yellowgreen;
+}
+
+p {
+    color: red;
+}
+
+p b {
+    color: darkturquoise;
+}
+
+p1 b {
+    color: darkturquoise;
+}
+
+#identifier2 p {
+    color: cornflowerblue;
+}
+
+.block2 p {
+    color: lightseagreen;
+}
+
+a[href^="https://"] {
+    color: grey;
+}
+
+
+
+
